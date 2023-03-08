@@ -11,8 +11,8 @@ Bienvenue sur mon profil github,je suis un étudiant chez HEI Madagascar.
   <svg/>
   
   <ul> My Top languages :
-    <li> Java <li>
-    <li> Python <li>
-    <li> Javascript <li>
-    <ul>
+    <li> Java </li>
+    <li> Python </li>
+    <li> Javascript </li>
+    </ul>
   
