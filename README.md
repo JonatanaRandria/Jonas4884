@@ -8,7 +8,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Postgreql](https://img.shields.io/badge/-postgreql-blue)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
 ### Technologies
 
