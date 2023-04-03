@@ -5,9 +5,8 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Postgreql](https://img.shields.io/badge/-postgreql-blue)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Orange](https://img.shields.io/badge/-Orange-000?&logo=Orange)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
