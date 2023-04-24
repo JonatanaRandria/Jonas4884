@@ -17,7 +17,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
