@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=6000&pause=2000&center=true&width=1000&lines=Hi%F0%9F%91%8B!+I'm+RANDRIAMPARANY+Jonatana+Andrianina.+%F0%9F%98%8E;A+passionnate+software+developer+!+%F0%9F%98%8D;learn%2C+share%2C+improve+%F0%9F%A5%B0)](https://git.io/typing-svg)
-
+<a href="https://app.daily.dev/Jonatana"><img src="https://api.daily.dev/devcards/d8cd26828adc429caf551949e1d6c706.png?r=qg0" width="400" alt="Jonatana Randriamparany's Dev Card"/></a>
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
