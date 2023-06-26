@@ -36,9 +36,9 @@
 ##  Other Technologies
 <p align="left">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=cd6799">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongoDb&svgfill=df5c43"> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB&svgfill=df5c43"> 
  <br/>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Php&svgfill=df5c43"> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=PHP&svgfill=df5c43"> 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Symfony&svgfill=df5c43">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Laravel&svgfill=df5c43">
 
