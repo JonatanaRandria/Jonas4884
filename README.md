@@ -27,6 +27,10 @@
 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Spring&svgfill=df5c43"> 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Postgresql&svgfill=df5c43"> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git">
 </p>
 
 ##  Other Technologies
@@ -48,9 +52,7 @@
 
 
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 
 
 </p>
