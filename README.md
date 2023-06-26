@@ -26,6 +26,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Java&svgfill=8ed5fa">
 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Spring&svgfill=df5c43"> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Postgresql&svgfill=df5c43"> 
 </p>
 ## Other Technologies
 <p align="left">
