@@ -28,7 +28,8 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Spring&svgfill=df5c43"> 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Postgresql&svgfill=df5c43"> 
 </p>
-## Other Technologies
+
+##  Other Technologies
 <p align="left">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=cd6799">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongoDb&svgfill=df5c43"> 
